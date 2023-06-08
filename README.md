@@ -6,4 +6,4 @@
 ### Grasp Detection
 ### Attention
 ### Depth Estimation
-P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
+P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [code](https://github.com/SysCV/P3Depth) [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
