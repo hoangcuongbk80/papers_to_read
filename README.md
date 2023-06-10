@@ -1,13 +1,15 @@
 ## 6D Object Pose Estimation
 1. EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf)
 2. Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+## 6D Object Pose Estimation (without CAD Model)
+1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
+2. OnePose: One-Shot Object Pose Estimation without CAD Models (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.pdf)
+3. SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SAR-Net_Shape_Alignment_and_Recovery_Network_for_Category-Level_6D_Object_CVPR_2022_paper.pdf)
+4. Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions
 ## Hand Pose Estimation
 1. HARP: Personalized Hand Reconstruction from a Monocular RGB Video (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Karunratanakul_HARP_Personalized_Hand_Reconstruction_From_a_Monocular_RGB_Video_CVPR_2023_paper.pdf)
 2. Harmonious Feature Learning for Interactive Hand-Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
 3. Learning Human-to-Robot Handovers from Point Clouds (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
-
-## 6D Object Pose Estimation (without CAD Model)
-1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
 ## Multi-Modal Fusion
 1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 ## Attention
