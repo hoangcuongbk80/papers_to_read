@@ -36,6 +36,7 @@
 5. PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_PanopticDepth_A_Unified_Framework_for_Depth-Aware_Panoptic_Segmentation_CVPR_2022_paper.pdf)
 6. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
 7. iDisc: Internal Discretization for Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf)
+8. Learning Depth-Guided Convolutions for Monocular 3D Object Detection (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
 ## Grasp Detection
 ## Simulator
 1. [BlenderProc](https://github.com/DLR-RM/BlenderProc) 
