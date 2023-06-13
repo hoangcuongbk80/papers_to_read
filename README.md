@@ -27,6 +27,11 @@
 ## Multi-Modal Fusion
 1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 2. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
+3. PGDENet: Progressive Guided Fusion and Depth Enhancement Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740493)
+4. RGB-Depth Fusion GAN for Indoor Depth Completion [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
+5. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
+6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
+
 ## Attention
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
