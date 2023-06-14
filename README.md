@@ -47,3 +47,4 @@
 1. [BlenderProc](https://github.com/DLR-RM/BlenderProc)
 ## Others
 1. Incredible summary of the Transformer architecture and it's evolution [Slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent#slide=id.g31364026ad_3_2)
+2. Courses at Linkoping [Web](https://isy.gitlab-pages.liu.se/courses/en/?fbclid=IwAR24QlWVRriNVOQR8l863t88avBbO6sotQSPIW5dYXw2ZgzpWQoFajwV0Iw#computer-vision-laboratory)
