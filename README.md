@@ -33,6 +33,7 @@
 6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
 
 ## Attention
+1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
 2. MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer (CVPR 2022) [CODE](https://github.com/KuanchihHuang/MonoDTR) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_MonoDTR_Monocular_3D_Object_Detection_With_Depth-Aware_Transformer_CVPR_2022_paper.pdf)
