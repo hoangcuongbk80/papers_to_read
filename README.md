@@ -44,4 +44,6 @@
 8. Learning Depth-Guided Convolutions for Monocular 3D Object Detection (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
 ## Grasp Detection
 ## Simulator
-1. [BlenderProc](https://github.com/DLR-RM/BlenderProc) 
+1. [BlenderProc](https://github.com/DLR-RM/BlenderProc)
+## Others
+1. Incredible summary of the Transformer architecture and it's evolution [Slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent#slide=id.g31364026ad_3_2)
