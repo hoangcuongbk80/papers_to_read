@@ -36,6 +36,7 @@
 2. CBAM: Convolutional Block Attention Module (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
 3. Attention is All You Need [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 4. Squeeze-and-Excitation Networks (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
+5. ACFNet: Attentional Class Feature Network for Semantic Segmentation [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_ACFNet_Attentional_Class_Feature_Network_for_Semantic_Segmentation_ICCV_2019_paper.pdf)
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
 2. MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer (CVPR 2022) [CODE](https://github.com/KuanchihHuang/MonoDTR) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_MonoDTR_Monocular_3D_Object_Detection_With_Depth-Aware_Transformer_CVPR_2022_paper.pdf)
