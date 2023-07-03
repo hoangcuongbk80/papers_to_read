@@ -30,6 +30,7 @@
 1. HARP: Personalized Hand Reconstruction from a Monocular RGB Video (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Karunratanakul_HARP_Personalized_Hand_Reconstruction_From_a_Monocular_RGB_Video_CVPR_2023_paper.pdf)
 2. Harmonious Feature Learning for Interactive Hand-Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
 3. Learning Human-to-Robot Handovers from Point Clouds (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
+4. Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hampali_Keypoint_Transformer_Solving_Joint_Identification_in_Challenging_Hands_and_Object_CVPR_2022_paper.pdf)
 ## Multi-Modal Fusion
 1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 2. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
@@ -43,6 +44,9 @@
 3. Attention is All You Need [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 4. Squeeze-and-Excitation Networks (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
 5. ACFNet: Attentional Class Feature Network for Semantic Segmentation [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_ACFNet_Attentional_Class_Feature_Network_for_Semantic_Segmentation_ICCV_2019_paper.pdf)
+6. PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)
+7. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
+
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
 2. MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer (CVPR 2022) [CODE](https://github.com/KuanchihHuang/MonoDTR) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_MonoDTR_Monocular_3D_Object_Detection_With_Depth-Aware_Transformer_CVPR_2022_paper.pdf)
