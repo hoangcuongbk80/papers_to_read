@@ -38,6 +38,7 @@
 4. RGB-Depth Fusion GAN for Indoor Depth Completion [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 5. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
 6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
+7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
 2. CBAM: Convolutional Block Attention Module (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
