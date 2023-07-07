@@ -62,7 +62,13 @@
 11. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
 12. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 218) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
 13. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
-## Grasp Detection
+##  Graph Neural Network
+1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
+2. Neural Message Passing for Quantum Chemistry (ICML 2016) [PDF](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
+3. A Comprehensive Survey on Graph Neural Networks (2019) [PDF](https://arxiv.org/pdf/1901.00596.pdf)
+4. Dynamic Graph CNN for Learning on Point Clouds (Transactions On Graphics) [PDF](https://arxiv.org/pdf/1801.07829.pdf)
+5. SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
+6. Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf)
 ## Simulator
 1. [BlenderProc](https://github.com/DLR-RM/BlenderProc)
 2. [Stable Diffusion](https://stablediffusionweb.com/)
