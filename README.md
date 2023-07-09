@@ -69,6 +69,10 @@
 4. Dynamic Graph CNN for Learning on Point Clouds (Transactions On Graphics) [PDF](https://arxiv.org/pdf/1801.07829.pdf)
 5. SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
 6. Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf)
+
+## Voting
+1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
+
 ## Simulator
 1. [BlenderProc](https://github.com/DLR-RM/BlenderProc)
 2. [Stable Diffusion](https://stablediffusionweb.com/)
