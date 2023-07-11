@@ -32,6 +32,10 @@
 3. Harmonious Feature Learning for Interactive Hand-Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
 4. Learning Human-to-Robot Handovers from Point Clouds (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf)
 5. Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hampali_Keypoint_Transformer_Solving_Joint_Identification_in_Challenging_Hands_and_Object_CVPR_2022_paper.pdf)
+6. Learning joint reconstruction of hands and manipulated objects (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf)
+7. Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hasson_Leveraging_Photometric_Consistency_Over_Time_for_Sparsely_Supervised_Hand-Object_Reconstruction_CVPR_2020_paper.pdf)
+8. HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf)
+9. Reconstructing Hand-Object Interactions in the Wild (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Reconstructing_Hand-Object_Interactions_in_the_Wild_ICCV_2021_paper.pdf)
 ## Multi-Modal Fusion
 1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 2. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
@@ -71,7 +75,7 @@
 5. SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
 6. Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf)
 
-## Voting
+## Backbone
 1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
 
 ## Simulator
