@@ -54,12 +54,16 @@
 7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
-2. CBAM: Convolutional Block Attention Module (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
-3. Attention is All You Need [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+2. Attention is All You Need [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+3. Non-local Neural Networks (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 4. Squeeze-and-Excitation Networks (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
-5. ACFNet: Attentional Class Feature Network for Semantic Segmentation [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_ACFNet_Attentional_Class_Feature_Network_for_Semantic_Segmentation_ICCV_2019_paper.pdf)
-6. PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)
-7. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
+5. CBAM: Convolutional Block Attention Module (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
+6. CCNet: Criss-Cross Attention for Semantic Segmentation (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf)
+7. Compact Generalized Non-local Network [PDF](https://arxiv.org/pdf/1810.13125.pdf)
+8. ACFNet: Attentional Class Feature Network for Semantic Segmentation [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_ACFNet_Attentional_Class_Feature_Network_for_Semantic_Segmentation_ICCV_2019_paper.pdf)
+9. Dual Attention Network for Scene Segmentation (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)
+10. PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)
+11. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
 
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
