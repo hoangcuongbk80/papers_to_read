@@ -64,6 +64,7 @@
 9. Dual Attention Network for Scene Segmentation (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)
 10. PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)
 11. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
+12. Cross-task Attention Mechanism for Dense Multi-task Learning (WACV 2023) [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
 
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
@@ -79,6 +80,7 @@
 11. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
 12. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 218) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
 13. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
+14. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
 2. Neural Message Passing for Quantum Chemistry (ICML 2016) [PDF](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
