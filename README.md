@@ -78,7 +78,7 @@
 9. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
 10. iDisc: Internal Discretization for Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf)
 11. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
-12. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 218) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
+12. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
 13. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
 14. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
 ##  Graph Neural Network
@@ -91,6 +91,14 @@
 
 ## Segmentation
 1. Learning Deconvolution Network for Semantic Segmentation (ICCV 2015) [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+
+## Grasp Detection
+1. [GraspNet](https://graspnet.net/publications.html)
+2. GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)
+3. RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images (ICRA 2021) [PDF](https://arxiv.org/pdf/2103.02184.pdf)
+4. Graspness Discovery in Clutters for Fast and Accurate Grasp Detection (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
+5. TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and A Grasping Baseline (RAL 2022) [PDF](https://arxiv.org/pdf/2202.08471.pdf)
+6. AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains (TRO 2022) [PDF](https://arxiv.org/pdf/2212.08333.pdf)
 
 ## Backbone
 1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
