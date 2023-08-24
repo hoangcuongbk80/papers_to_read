@@ -20,6 +20,7 @@
 21. Keypoint-graph-driven learning framework for object pose estimation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf)
 22. Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Object_Pose_Estimation_With_Statistical_Guarantees_Conformal_Keypoint_Detection_and_CVPR_2023_paper.pdf)
 23. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview [PDF](https://dl.acm.org/doi/full/10.1145/3524496)
+    
 ## 6D Object Pose Estimation (without CAD Model)
 1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
 2. OnePose: One-Shot Object Pose Estimation without CAD Models (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.pdf)
@@ -28,6 +29,7 @@
 5. Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf)
 6. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
 7. HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+   
 ## Hand Pose Estimation
 1. HARP: Personalized Hand Reconstruction from a Monocular RGB Video (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Karunratanakul_HARP_Personalized_Hand_Reconstruction_From_a_Monocular_RGB_Video_CVPR_2023_paper.pdf)
 2. HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_HandOccNet_Occlusion-Robust_3D_Hand_Mesh_Estimation_Network_CVPR_2022_paper.pdf)
@@ -44,6 +46,7 @@
 13. Affordance Diffusion: Synthesizing Hand-Object Interactions (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Affordance_Diffusion_Synthesizing_Hand-Object_Interactions_CVPR_2023_paper.pdf)
 14. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_gSDF_Geometry-Driven_Signed_Distance_Functions_for_3D_Hand-Object_Reconstruction_CVPR_2023_paper.pdf)
 15. End-to-End Human Pose and Mesh Reconstruction with Transformers (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)
+    
 ## Multi-Modal Fusion
 1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
 2. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
@@ -52,6 +55,7 @@
 5. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
 6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
 7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
+   
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
 2. Attention is All You Need [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
@@ -82,6 +86,7 @@
 13. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
 14. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
 15. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
+    
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
 2. Neural Message Passing for Quantum Chemistry (ICML 2016) [PDF](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
@@ -100,6 +105,7 @@
 4. Graspness Discovery in Clutters for Fast and Accurate Grasp Detection (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
 5. TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and A Grasping Baseline (RAL 2022) [PDF](https://arxiv.org/pdf/2202.08471.pdf)
 6. AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains (TRO 2022) [PDF](https://arxiv.org/pdf/2212.08333.pdf)
+7. Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes (ICRA 2021) [PDF](https://arxiv.org/pdf/2103.14127.pdf)
 
 ## Backbone
 1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
@@ -107,6 +113,7 @@
 ## Simulator
 1. [BlenderProc](https://github.com/DLR-RM/BlenderProc)
 2. [Stable Diffusion](https://stablediffusionweb.com/)
+   
 ## Others
 1. Incredible summary of the Transformer architecture and it's evolution [Slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent#slide=id.g31364026ad_3_2)
 2. Computer Vision Courses at Linkoping [Web](https://isy.gitlab-pages.liu.se/courses/en/?fbclid=IwAR24QlWVRriNVOQR8l863t88avBbO6sotQSPIW5dYXw2ZgzpWQoFajwV0Iw#computer-vision-laboratory)
