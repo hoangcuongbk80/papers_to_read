@@ -106,6 +106,11 @@
 5. TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and A Grasping Baseline (RAL 2022) [PDF](https://arxiv.org/pdf/2202.08471.pdf)
 6. AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains (TRO 2022) [PDF](https://arxiv.org/pdf/2212.08333.pdf)
 7. Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes (ICRA 2021) [PDF](https://arxiv.org/pdf/2103.14127.pdf)
+8. Joint Segmentation and Grasp Pose Detection with Multi-Modal Feature Fusion Network (ICRA 2023) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160253)
+9. Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes (RAL 2023) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10168242)
+10. GPDAN: Grasp Pose Domain Adaptation Network for Sim-to-Real 6-DoF Object Grasping (RAL 2023) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10153686)
+11. VGPN: 6-DoF Grasp Pose Detection Network Based on Hough Voting (IROS 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981925)
+12. Robotic Grasping from Classical to Modern: A Survey [PDF](https://arxiv.org/pdf/2202.03631.pdf)
 
 ## Backbone
 1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
