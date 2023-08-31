@@ -20,6 +20,7 @@
 21. Keypoint-graph-driven learning framework for object pose estimation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf)
 22. Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Object_Pose_Estimation_With_Statistical_Guarantees_Conformal_Keypoint_Detection_and_CVPR_2023_paper.pdf)
 23. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview [PDF](https://dl.acm.org/doi/full/10.1145/3524496)
+24. Data-Driven Grasp Synthesis—A Survey (TRO) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6672028)
     
 ## 6D Object Pose Estimation (without CAD Model)
 1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
