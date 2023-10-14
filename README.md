@@ -1,14 +1,20 @@
 ## Neural Radiance Fields
 1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
 2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review [PDF](https://arxiv.org/pdf/2210.00379.pdf)
+3. DINER: Depth-aware Image-based NEural Radiance fields (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Prinzler_DINER_Depth-Aware_Image-Based_NEural_Radiance_Fields_CVPR_2023_paper.pdf)
+
+## Self-Supervised Object Pose Estimation
+1. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
+2. Self6D: Self-Supervised Monocular 6D Object Pose Estimation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf)
+3. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+4. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+
 ## 6D Object Pose Estimation
 1. Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf)
-2. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
 5. DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf)
 6. PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf)
 7. FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/He_FFB6D_A_Full_Flow_Bidirectional_Fusion_Network_for_6D_Pose_CVPR_2021_paper.pdf)
-8. Self6D: Self-Supervised Monocular 6D Object Pose Estimation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf)
-9. Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation (TPAMI 2021) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655492)
+8. Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation (TPAMI 2021) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655492)
 10. SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_SMOC-Net_Leveraging_Camera_Pose_for_Self-Supervised_Monocular_Object_Pose_Estimation_CVPR_2023_paper.pdf)
 11. PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (RSS 2018) [PDF](https://arxiv.org/pdf/1711.00199.pdf)
 12. EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf)
@@ -25,7 +31,6 @@
 23. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview [PDF](https://dl.acm.org/doi/full/10.1145/3524496)
 24. Data-Driven Grasp Synthesis—A Survey (TRO) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6672028)
 25. Rigidity-Aware Detection for 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
-26. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
     
 ## 6D Object Pose Estimation (without CAD Model)
 1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
@@ -33,8 +38,7 @@
 3. SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SAR-Net_Shape_Alignment_and_Recovery_Network_for_Category-Level_6D_Object_CVPR_2022_paper.pdf)
 4. OSOP: A Multi-Stage One Shot Object Pose Estimation Framework (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shugurov_OSOP_A_Multi-Stage_One_Shot_Object_Pose_Estimation_Framework_CVPR_2022_paper.pdf)
 5. Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf)
-6. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
-7. HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+6. HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
    
 ## Hand Pose Estimation
 1. HARP: Personalized Hand Reconstruction from a Monocular RGB Video (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Karunratanakul_HARP_Personalized_Hand_Reconstruction_From_a_Monocular_RGB_Video_CVPR_2023_paper.pdf)
