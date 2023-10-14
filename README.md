@@ -1,3 +1,6 @@
+## Neural Radiance Fields
+1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
+2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review [PDF](https://arxiv.org/pdf/2210.00379.pdf)
 ## 6D Object Pose Estimation
 1. Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf)
 2. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
