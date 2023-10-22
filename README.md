@@ -1,3 +1,7 @@
+## Multi-Task Architectures
+1. Efficient Controllable Multi-Task Architectures (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Aich_Efficient_Controllable_Multi-Task_Architectures_ICCV_2023_paper.pdf)
+2. Multi-Task Learning with Knowledge Distillation for Dense Prediction (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multi-Task_Learning_with_Knowledge_Distillation_for_Dense_Prediction_ICCV_2023_paper.pdf)
+
 ## Neural Radiance Fields
 1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
 2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review [PDF](https://arxiv.org/pdf/2210.00379.pdf)
