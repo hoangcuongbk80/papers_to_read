@@ -3,6 +3,7 @@
 2. Multi-Task Learning with Knowledge Distillation for Dense Prediction (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multi-Task_Learning_with_Knowledge_Distillation_for_Dense_Prediction_ICCV_2023_paper.pdf)
 3. Multi-task learning for dense prediction tasks: A survey (TPAMI 2022) [PDF](https://arxiv.org/pdf/2004.13379.pdf)
 4. Pattern-Structure Diffusion for Multi-Task Learning (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Pattern-Structure_Diffusion_for_Multi-Task_Learning_CVPR_2020_paper.pdf)
+5. PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing (CPVR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PAD-Net_Multi-Tasks_Guided_CVPR_2018_paper.pdf)
 
 ## Neural Radiance Fields
 1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
