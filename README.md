@@ -1,3 +1,10 @@
+## Optical Flow
+1. Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620087.pdf)
+2. FlowFormer: A Transformer Architecture for Optical Flow (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770672.pdf)
+3. PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_PWC-Net_CNNs_for_CVPR_2018_paper.pdf)
+4. FlowNet: Learning Optical Flow with Convolutional Networks (ICCV 2015) [CVPR](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)
+5. Flownet 2.0: Evolution of optical flow estimation with deep networks (CVPR 2017) [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ilg_FlowNet_2.0_Evolution_CVPR_2017_paper.pdf)
+
 ## Multi-Task Architectures
 1. Efficient Controllable Multi-Task Architectures (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Aich_Efficient_Controllable_Multi-Task_Architectures_ICCV_2023_paper.pdf)
 2. Multi-Task Learning with Knowledge Distillation for Dense Prediction (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multi-Task_Learning_with_Knowledge_Distillation_for_Dense_Prediction_ICCV_2023_paper.pdf)
