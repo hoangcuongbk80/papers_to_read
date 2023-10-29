@@ -11,6 +11,8 @@
 3. Multi-task learning for dense prediction tasks: A survey (TPAMI 2022) [PDF](https://arxiv.org/pdf/2004.13379.pdf)
 4. Pattern-Structure Diffusion for Multi-Task Learning (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Pattern-Structure_Diffusion_for_Multi-Task_Learning_CVPR_2020_paper.pdf)
 5. PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing (CPVR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PAD-Net_Multi-Tasks_Guided_CVPR_2018_paper.pdf)
+6. Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Leveraging_Auxiliary_Tasks_With_Affinity_Learning_for_Weakly_Supervised_Semantic_ICCV_2021_paper.pdf)
+7. Multi-Task Learning for Dense Prediction Tasks: A Survey (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9336293)
 
 ## Neural Radiance Fields
 1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
@@ -79,6 +81,7 @@
 5. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
 6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
 7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
+8. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231003)
    
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
