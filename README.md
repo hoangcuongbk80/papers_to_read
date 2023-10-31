@@ -13,17 +13,18 @@
 5. PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing (CPVR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PAD-Net_Multi-Tasks_Guided_CVPR_2018_paper.pdf)
 6. Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Leveraging_Auxiliary_Tasks_With_Affinity_Learning_for_Weakly_Supervised_Semantic_ICCV_2021_paper.pdf)
 7. MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870299.pdf)
-
-## Neural Radiance Fields
-1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
-2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review [PDF](https://arxiv.org/pdf/2210.00379.pdf)
-3. DINER: Depth-aware Image-based NEural Radiance fields (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Prinzler_DINER_Depth-Aware_Image-Based_NEural_Radiance_Fields_CVPR_2023_paper.pdf)
+8. Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Multi-Mode_Online_Knowledge_Distillation_for_Self-Supervised_Visual_Representation_Learning_CVPR_2023_paper.pdf)
 
 ## Self-Supervised Object Pose Estimation
 1. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
 2. Self6D: Self-Supervised Monocular 6D Object Pose Estimation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf)
 3. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
 4. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+
+## Neural Radiance Fields
+1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
+2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review [PDF](https://arxiv.org/pdf/2210.00379.pdf)
+3. DINER: Depth-aware Image-based NEural Radiance fields (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Prinzler_DINER_Depth-Aware_Image-Based_NEural_Radiance_Fields_CVPR_2023_paper.pdf)
 
 ## 6D Object Pose Estimation
 1. Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf)
