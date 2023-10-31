@@ -18,8 +18,10 @@
 ## Self-Supervised Object Pose Estimation
 1. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
 2. Self6D: Self-Supervised Monocular 6D Object Pose Estimation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460103.pdf)
-3. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
-4. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+3. Self6D++: Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation (TPAMI 2022) [PDF](https://arxiv.org/pdf/2203.10339.pdf)
+4. TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+5. UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+6. SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_SMOC-Net_Leveraging_Camera_Pose_for_Self-Supervised_Monocular_Object_Pose_Estimation_CVPR_2023_paper.pdf)
 
 ## Neural Radiance Fields
 1. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ICCV 2020) [PDF](https://arxiv.org/pdf/2003.08934v2.pdf)
