@@ -116,6 +116,8 @@
 13. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
 14. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
 15. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
+16. Deep learning for monocular depth estimation: A review (2021) [PDF](https://pure.port.ac.uk/ws/files/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf)
+17. Towards Real-Time Monocular Depth Estimation for Robotics: A Survey (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750985)
     
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
