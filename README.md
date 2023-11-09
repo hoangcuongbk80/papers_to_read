@@ -129,6 +129,7 @@
 
 ## Segmentation
 1. Learning Deconvolution Network for Semantic Segmentation (ICCV 2015) [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+2. Fully convolutional networks for panoptic segmentation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Fully_Convolutional_Networks_for_Panoptic_Segmentation_CVPR_2021_paper.pdf)
 
 ## Grasp Detection
 1. [GraspNet](https://graspnet.net/publications.html)
