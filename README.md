@@ -118,14 +118,15 @@
 7. Depth-Aware Generative Adversarial Network for Talking Head Video Generation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Depth-Aware_Generative_Adversarial_Network_for_Talking_Head_Video_Generation_CVPR_2022_paper.pdf)
 8. Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Depth-Guided_Sparse_Structure-From-Motion_for_Movies_and_TV_Shows_CVPR_2022_paper.pdf)
 9. PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_PanopticDepth_A_Unified_Framework_for_Depth-Aware_Panoptic_Segmentation_CVPR_2022_paper.pdf)
-10. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
-11. iDisc: Internal Discretization for Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf)
-12. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
-13. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
-14. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
-15. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
-16. Deep learning for monocular depth estimation: A review (2021) [PDF](https://pure.port.ac.uk/ws/files/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf)
-17. Towards Real-Time Monocular Depth Estimation for Robotics: A Survey (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750985)
+10. Object aware monocular depth prediction with instance convolutions (ICRA 2022) [PDF](https://arxiv.org/pdf/2112.01521.pdf)
+11. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
+12. iDisc: Internal Discretization for Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf)
+13. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
+14. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
+15. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
+16. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
+17. Deep learning for monocular depth estimation: A review (2021) [PDF](https://pure.port.ac.uk/ws/files/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf)
+18. Towards Real-Time Monocular Depth Estimation for Robotics: A Survey (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750985)
     
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
@@ -136,8 +137,11 @@
 6. Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf)
 
 ## Segmentation
-1. Learning Deconvolution Network for Semantic Segmentation (ICCV 2015) [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
-2. Fully convolutional networks for panoptic segmentation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Fully_Convolutional_Networks_for_Panoptic_Segmentation_CVPR_2021_paper.pdf)
+1.Fully Convolutional Networks for Semantic Segmentation (TPAMI 2017) [PDF](https://openreview.net/pdf?id=SNHz8GbW2Ry)
+2. Learning Deconvolution Network for Semantic Segmentation (ICCV 2015) [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+3. Fully convolutional networks for panoptic segmentation (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Fully_Convolutional_Networks_for_Panoptic_Segmentation_CVPR_2021_paper.pdf)
+4. A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D Images [PDF](https://www.tandfonline.com/doi/epdf/10.1080/08839514.2022.2032924?needAccess=true)
+5. DeepLabV3 [PDF]()
 
 ## Grasp Detection
 1. [GraspNet](https://graspnet.net/publications.html)
