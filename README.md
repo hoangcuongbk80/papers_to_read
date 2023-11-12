@@ -100,6 +100,14 @@
 11. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
 12. Cross-task Attention Mechanism for Dense Multi-task Learning (WACV 2023) [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
 
+## Transformer
+1. Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings [Youtube](https://www.youtube.com/watch?v=dichIcUZfOw)
+2. Transformer Architecture: The Positional Encoding [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+3. Transformers in Vision: A Survey [PDF](https://arxiv.org/pdf/2101.01169.pdf)
+4. Published as a conference paper at ICLR 2021 AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [PDF](https://arxiv.org/pdf/2010.11929.pdf)
+5. End-to-End Human Object Interaction Detection with HOI Transformer [PDF]()
+6. Attention Augmented Convolutional Networks [PDF](https://arxiv.org/pdf/1904.09925.pdf)
+
 ## Depth Estimation and Depth-Aware Methods
 1. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
 2. Towards Zero-Shot Scale-Aware Monocular Depth Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2306.17253.pdf)
