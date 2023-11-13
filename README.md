@@ -108,7 +108,7 @@
 5. End-to-End Human Object Interaction Detection with HOI Transformer [PDF]()
 6. Attention Augmented Convolutional Networks [PDF](https://arxiv.org/pdf/1904.09925.pdf)
 
-## Depth Estimation and 
+## Depth Estimation
 1. SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SDC-Depth_Semantic_Divide-and-Conquer_Network_for_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)
 2. Towards Real-Time Monocular Depth Estimation for Robotics: A Survey (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750985)
 3. Deep learning for monocular depth estimation: A review (2021) [PDF](https://pure.port.ac.uk/ws/files/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf)
