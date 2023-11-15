@@ -114,11 +114,12 @@
 3. Deep learning for monocular depth estimation: A review (2021) [PDF](https://pure.port.ac.uk/ws/files/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf)
 4. iDisc: Internal Discretization for Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf)
 5. Categorical Depth Distribution Network for Monocular 3D Object Detection (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Reading_Categorical_Depth_Distribution_Network_for_Monocular_3D_Object_Detection_CVPR_2021_paper.pdf)
-6. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
-7. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
-8. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
-9. Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jung_Fine-Grained_Semantics-Aware_Representation_Enhancement_for_Self-Supervised_Monocular_Depth_Estimation_ICCV_2021_paper.pdf)
-10. Learning depth via leveraging semantics: Self-supervised monocular depth estimation with both implicit and explicit semantic guidance (Pattern Recognition) [PDF](https://www.sciencedirect.com/science/article/pii/S0031320322007762?ref=cra_js_challenge&fr=RR-1)
+6. Center3D: Center-based Monocular 3D Object Detection with Joint Depth Understanding [PDF](https://arxiv.org/pdf/2005.13423.pdf)
+7. Deep Ordinal Regression Network for Monocular Depth Estimation (CVPR 2018) [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)
+8. Deeper Depth Prediction with Fully Convolutional Residual Networks (3DV 2016) [PDF](https://arxiv.org/pdf/1606.00373.pdf)
+9. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
+10. Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jung_Fine-Grained_Semantics-Aware_Representation_Enhancement_for_Self-Supervised_Monocular_Depth_Estimation_ICCV_2021_paper.pdf)
+11. Learning depth via leveraging semantics: Self-supervised monocular depth estimation with both implicit and explicit semantic guidance (Pattern Recognition) [PDF](https://www.sciencedirect.com/science/article/pii/S0031320322007762?ref=cra_js_challenge&fr=RR-1)
 
 ## Depth-Aware Methods
 1. Towards Zero-Shot Scale-Aware Monocular Depth Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2306.17253.pdf)
