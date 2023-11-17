@@ -14,6 +14,7 @@
 6. Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Leveraging_Auxiliary_Tasks_With_Affinity_Learning_for_Weakly_Supervised_Semantic_ICCV_2021_paper.pdf)
 7. MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870299.pdf)
 8. Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Multi-Mode_Online_Knowledge_Distillation_for_Self-Supervised_Visual_Representation_Learning_CVPR_2023_paper.pdf)
+9. End-to-End Multi-Task Learning with Attention (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper.pdf)
 
 ## Self-Supervised Object Pose Estimation
 1. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
