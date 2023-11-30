@@ -86,6 +86,7 @@
 6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
 7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
 8. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231003)
+9. PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf)
    
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
