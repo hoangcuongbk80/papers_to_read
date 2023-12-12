@@ -139,6 +139,7 @@
 9. Object aware monocular depth prediction with instance convolutions (ICRA 2022) [PDF](https://arxiv.org/pdf/2112.01521.pdf)
 10. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
 11. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
+12. Does depth estimation help object detection? (ICV 2022) [PDF](https://arxiv.org/pdf/2204.06512.pdf)
     
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
