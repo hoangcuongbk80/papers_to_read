@@ -126,6 +126,8 @@
 9. P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior (CVPR 2022) [CODE](https://github.com/SysCV/P3Depth) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf)
 10. Fine-grained Semantics-aware Representation Enhancement for Self-supervised Monocular Depth Estimation (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Jung_Fine-Grained_Semantics-Aware_Representation_Enhancement_for_Self-Supervised_Monocular_Depth_Estimation_ICCV_2021_paper.pdf)
 11. Learning depth via leveraging semantics: Self-supervised monocular depth estimation with both implicit and explicit semantic guidance (Pattern Recognition) [PDF](https://www.sciencedirect.com/science/article/pii/S0031320322007762?ref=cra_js_challenge&fr=RR-1)
+12. SEMANTICALLY-GUIDED REPRESENTATION LEARN- ING FOR SELF-SUPERVISED MONOCULAR DEPTH (ICLR 2020) [PDF](https://arxiv.org/pdf/2002.12319.pdf)
+13. SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction (NeurIPSW 2020) [PDF](https://arxiv.org/pdf/2010.02893.pdf) 
 
 ## Depth-Aware Methods
 1. Towards Zero-Shot Scale-Aware Monocular Depth Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2306.17253.pdf)
