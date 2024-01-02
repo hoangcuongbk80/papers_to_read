@@ -82,15 +82,17 @@
 15. End-to-End Human Pose and Mesh Reconstruction with Transformers (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)
     
 ## Multi-Modal Fusion
-1. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
-2. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
-3. PGDENet: Progressive Guided Fusion and Depth Enhancement Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740493)
-4. RGB-Depth Fusion GAN for Indoor Depth Completion [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
-5. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
-6. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
-7. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
-8. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231003)
-9. PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf)
+1. RDFNet: RGB-D Multi-level Residual Feature Fusion for Indoor Semantic Segmentation (ICCV 2017) [PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Park_RDFNet_RGB-D_Multi-Level_ICCV_2017_paper.pdf)
+2. RGB-Depth Fusion GAN for Indoor Depth Completion (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
+4. MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_MSMDFusion_Fusing_LiDAR_and_Camera_at_Multiple_Scales_With_Multi-Depth_CVPR_2023_paper.pdf)
+5. PGDENet: Progressive Guided Fusion and Depth Enhancement Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740493)
+6. RGB-Depth Fusion GAN for Indoor Depth Completion [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf)
+7. FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774020)
+8. CANet: Co-attention network for RGB-D semantic segmentation [PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006440/pdf)
+9. Exploiting enhanced and robust RGB-D face representation via progressive multi-modal learning (PRL 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S0167865522003956?ref=pdf_download&fr=RR-2&rr=7e2c34afedd209a8)
+10. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231003)
+11. PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf)
+12. Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560545.pdf)
    
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
