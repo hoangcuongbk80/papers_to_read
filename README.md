@@ -107,15 +107,17 @@
 10. PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)
 11. Geodesic Self-Attention for 3D Point Clouds (NIPS 2022) [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/28e4ee96c94e31b2d040b4521d2b299e-Paper-Conference.pdf)
 12. Cross-task Attention Mechanism for Dense Multi-task Learning (WACV 2023) [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
-13. Investigating Attention Mechanism in 3D Point Cloud Object Detection (3DV 2021) [PDF](https://arxiv.org/pdf/2108.00620.pdf) 
+13. Investigating Attention Mechanism in 3D Point Cloud Object Detection (3DV 2021) [PDF](https://arxiv.org/pdf/2108.00620.pdf)
+14. SCA-Net: Spatial and channel attention-based network for 3D point clouds (CVIU 2023) [PDF](https://www.sciencedirect.com/science/article/pii/S107731422300070X)
 
 ## Transformer
 1. Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings [Youtube](https://www.youtube.com/watch?v=dichIcUZfOw)
 2. Transformer Architecture: The Positional Encoding [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 3. Transformers in Vision: A Survey [PDF](https://arxiv.org/pdf/2101.01169.pdf)
-4. Published as a conference paper at ICLR 2021 AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [PDF](https://arxiv.org/pdf/2010.11929.pdf)
+4. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [PDF](https://arxiv.org/pdf/2010.11929.pdf)
 5. End-to-End Human Object Interaction Detection with HOI Transformer [PDF]()
 6. Attention Augmented Convolutional Networks [PDF](https://arxiv.org/pdf/1904.09925.pdf)
+7. Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf)
 
 ## Depth Estimation
 1. Depth Map Prediction from a Single Image using a Multi-Scale Deep Network (NIPS 2014) [PDF](https://proceedings.neurips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)
