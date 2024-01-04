@@ -54,7 +54,6 @@
 23. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview [PDF](https://dl.acm.org/doi/full/10.1145/3524496)
 24. Data-Driven Grasp Synthesis—A Survey (TRO) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6672028)
 25. Rigidity-Aware Detection for 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
-26. Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf)
     
 ## 6D Object Pose Estimation (without CAD Model)
 1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
@@ -93,6 +92,7 @@
 10. CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation With Transformers [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10231003)
 11. PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf)
 12. Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560545.pdf)
+13. Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf)
    
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
