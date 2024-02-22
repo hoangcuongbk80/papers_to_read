@@ -1,5 +1,7 @@
 ## Aerial Tracking
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
+2. Detection and Tracking Meet Drones Challenge (CTAM 2021) [PDF](https://arxiv.org/pdf/2001.06303.pdf)
+3. The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)
 
 ## Optical Flow
 1. Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620087.pdf)
