@@ -2,6 +2,13 @@
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
 2. Detection and Tracking Meet Drones Challenge (CTAM 2021) [PDF](https://arxiv.org/pdf/2001.06303.pdf)
 3. The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking (ECCV 2018) [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)
+4. HiFT: Hierarchical Feature Transformer for Aerial Tracking (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_HiFT_Hierarchical_Feature_Transformer_for_Aerial_Tracking_ICCV_2021_paper.pdf)
+5. Onboard Real-Time Aerial Tracking With Efficient Siamese Anchor Proposal Network (STAMP 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477413)
+6. Siamese Anchor Proposal Network for High-Speed Aerial Tracking (ICRA 2021) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560756)
+7. Visibility-aware Trajectory Optimization with Application to Aerial Tracking (IROS 2021) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636753)
+8. Robust Real-time Vision-based Aircraft Tracking From Unmanned Aerial Vehicles (ICRA 2014) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6907659)
+9. Local Perception-Aware Transformer for Aerial Tracking (IROS 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981248)
+10. TCTrack: Temporal Contexts for Aerial Tracking (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_TCTrack_Temporal_Contexts_for_Aerial_Tracking_CVPR_2022_paper.pdf)
 
 ## Optical Flow
 1. Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620087.pdf)
