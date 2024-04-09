@@ -1,6 +1,9 @@
 ## Registration
 1. UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)
 
+## Tracking
+1. DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video [PDF](https://arxiv.org/pdf/2403.14548.pdf)
+
 ## Aerial Tracking
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
 2. Detection and Tracking Meet Drones Challenge (CTAM 2021) [PDF](https://arxiv.org/pdf/2001.06303.pdf)
