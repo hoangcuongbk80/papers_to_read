@@ -155,6 +155,7 @@
 17. SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction (NeurIPSW 2020) [PDF](https://arxiv.org/pdf/2010.02893.pdf)
 18. Layered Depth Refinement with Mask Guidance (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf)
 19. Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Miangoleh_Boosting_Monocular_Depth_Estimation_Models_to_High-Resolution_via_Content-Adaptive_Multi-Resolution_CVPR_2021_paper.pdf)
+20. UniDepth: Universal Monocular Metric Depth Estimation (CVPR 2024) [PDF](https://arxiv.org/pdf/2403.18913.pdf)
 
 ## Depth-Aware Methods
 1. Towards Zero-Shot Scale-Aware Monocular Depth Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2306.17253.pdf)
