@@ -33,6 +33,7 @@
 7. MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (ECCV 2022) [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870299.pdf)
 8. Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Multi-Mode_Online_Knowledge_Distillation_for_Self-Supervised_Visual_Representation_Learning_CVPR_2023_paper.pdf)
 9. End-to-End Multi-Task Learning with Attention (CVPR 2019) [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper.pdf)
+10. Cross-task Attention Mechanism for Dense Multi-task Learning (WACV 2023) [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
 
 ## Self-Supervised Object Pose Estimation
 1. Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation (ICCV 2023) [PDF](https://arxiv.org/pdf/2308.10016.pdf)
@@ -109,6 +110,7 @@
 12. Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation (ECCV 2020) [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560545.pdf)
 13. Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf)
 14. DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation (ICLR 2024) [PDF](https://arxiv.org/pdf/2309.09668.pdf)
+15. Cross Modal Transformer: Towards Fast and Robust 3D Object Detection (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Cross_Modal_Transformer_Towards_Fast_and_Robust_3D_Object_Detection_ICCV_2023_paper.pdf)
    
 ## Attention
 1. Attention Mechanisms in Computer Vision: A Survey [PDF](https://arxiv.org/pdf/2111.07624.pdf)
