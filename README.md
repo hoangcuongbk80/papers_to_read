@@ -8,6 +8,7 @@
 7. A Multi-Scale Guided Cascade Hourglass Network for Depth Completion [PDF](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_A_Multi-Scale_Guided_Cascade_Hourglass_Network_for_Depth_Completion_WACV_2020_paper.pdf)
 8. Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Semi-Supervised_3D_Hand-Object_Poses_Estimation_With_Interactions_in_Time_CVPR_2021_paper.pdf)
 9. Lightweight Stacked Hourglass Network for Human Pose Estimation [PDF](https://www.mdpi.com/2076-3417/10/18/6497)
+10. EfficientPose: Efficient human pose estimation with neural architecture search [PDF](https://arxiv.org/pdf/2012.07086)
 
 ## Registration
 1. UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)
