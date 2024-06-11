@@ -1,20 +1,22 @@
 ## Efficient Model
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
-2. MixSynthFormer: A Transformer Encoder-like Structure with Mixed Synthetic Self-attention for Efficient Human Pose Estimation (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_MixSynthFormer_A_Transformer_Encoder-like_Structure_with_Mixed_Synthetic_Self-attention_for_ICCV_2023_paper.pdf)
-3. SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shaker_SwiftFormer_Efficient_Additive_Attention_for_Transformer-based_Real-time_Mobile_Vision_Applications_ICCV_2023_paper.pdf)
-4. Efficient Computation Sharing for Multi-Task Visual Scene Understanding (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shoouri_Efficient_Computation_Sharing_for_Multi-Task_Visual_Scene_Understanding_ICCV_2023_paper.pdf)
-5. DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_DELFlow_Dense_Efficient_Learning_of_Scene_Flow_for_Large-Scale_Point_ICCV_2023_paper.pdf)
-6. Stacked Hourglass Networks for Human Pose Estimation [PDF](https://arxiv.org/pdf/1603.06937)
-7. A Multi-Scale Guided Cascade Hourglass Network for Depth Completion [PDF](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_A_Multi-Scale_Guided_Cascade_Hourglass_Network_for_Depth_Completion_WACV_2020_paper.pdf)
-8. Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Semi-Supervised_3D_Hand-Object_Poses_Estimation_With_Interactions_in_Time_CVPR_2021_paper.pdf)
-9. Lightweight Stacked Hourglass Network for Human Pose Estimation [PDF](https://www.mdpi.com/2076-3417/10/18/6497)
-10. EfficientPose: Efficient human pose estimation with neural architecture search [PDF](https://arxiv.org/pdf/2012.07086)
+3. MixSynthFormer: A Transformer Encoder-like Structure with Mixed Synthetic Self-attention for Efficient Human Pose Estimation (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_MixSynthFormer_A_Transformer_Encoder-like_Structure_with_Mixed_Synthetic_Self-attention_for_ICCV_2023_paper.pdf)
+4. SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shaker_SwiftFormer_Efficient_Additive_Attention_for_Transformer-based_Real-time_Mobile_Vision_Applications_ICCV_2023_paper.pdf)
+5. Efficient Computation Sharing for Multi-Task Visual Scene Understanding (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shoouri_Efficient_Computation_Sharing_for_Multi-Task_Visual_Scene_Understanding_ICCV_2023_paper.pdf)
+6. DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_DELFlow_Dense_Efficient_Learning_of_Scene_Flow_for_Large-Scale_Point_ICCV_2023_paper.pdf)
+7. Stacked Hourglass Networks for Human Pose Estimation [PDF](https://arxiv.org/pdf/1603.06937)
+8. A Multi-Scale Guided Cascade Hourglass Network for Depth Completion [PDF](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_A_Multi-Scale_Guided_Cascade_Hourglass_Network_for_Depth_Completion_WACV_2020_paper.pdf)
+9. Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Semi-Supervised_3D_Hand-Object_Poses_Estimation_With_Interactions_in_Time_CVPR_2021_paper.pdf)
+10. Lightweight Stacked Hourglass Network for Human Pose Estimation [PDF](https://www.mdpi.com/2076-3417/10/18/6497)
+11. EfficientPose: Efficient human pose estimation with neural architecture search [PDF](https://arxiv.org/pdf/2012.07086)
 
 ## Registration
 1. UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Banani_UnsupervisedRR_Unsupervised_Point_Cloud_Registration_via_Differentiable_Rendering_CVPR_2021_paper.pdf)
-
+   
 ## Tracking
 1. DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video [PDF](https://arxiv.org/pdf/2403.14548.pdf)
+2. MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yasarla_MAMo_Leveraging_Memory_and_Attention_for_Monocular_Video_Depth_Estimation_ICCV_2023_paper.pdf)
+3. PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf)
 
 ## Aerial Tracking
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
