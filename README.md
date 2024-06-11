@@ -1,5 +1,10 @@
+## Affordance
+1. Grounding 3D Object Affordance from 2D Interactions in Images (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.pdf)
+2. Affordance Diffusion: Synthesizing Hand-Object Interactions (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Affordance_Diffusion_Synthesizing_Hand-Object_Interactions_CVPR_2023_paper.pdf)
+   
 ## Efficient Model
 1. Resource-Efficient RGBD Aerial Tracking (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf)
+2. Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism (Neurips 2023) [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/a0673542a242759ea637972f053b2e0b-Paper-Conference.pdf)
 3. MixSynthFormer: A Transformer Encoder-like Structure with Mixed Synthetic Self-attention for Efficient Human Pose Estimation (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_MixSynthFormer_A_Transformer_Encoder-like_Structure_with_Mixed_Synthetic_Self-attention_for_ICCV_2023_paper.pdf)
 4. SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shaker_SwiftFormer_Efficient_Additive_Attention_for_Transformer-based_Real-time_Mobile_Vision_Applications_ICCV_2023_paper.pdf)
 5. Efficient Computation Sharing for Multi-Task Visual Scene Understanding (ICCV2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shoouri_Efficient_Computation_Sharing_for_Multi-Task_Visual_Scene_Understanding_ICCV_2023_paper.pdf)
@@ -106,7 +111,6 @@
 10. DexYCB: A Benchmark for Capturing Hand Grasping of Objects (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Chao_DexYCB_A_Benchmark_for_Capturing_Hand_Grasping_of_Objects_CVPR_2021_paper.pdf)
 11. ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_ARCTIC_A_Dataset_for_Dexterous_Bimanual_Hand-Object_Manipulation_CVPR_2023_paper.pdf)
 12. AMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_CAMS_CAnonicalized_Manipulation_Spaces_for_Category-Level_Functional_Hand-Object_Manipulation_Synthesis_CVPR_2023_paper.pdf)
-13. Affordance Diffusion: Synthesizing Hand-Object Interactions (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Affordance_Diffusion_Synthesizing_Hand-Object_Interactions_CVPR_2023_paper.pdf)
 14. Synthesizing Diverse Human Motions in 3D Indoor Scenes (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Synthesizing_Diverse_Human_Motions_in_3D_Indoor_Scenes_ICCV_2023_paper.pdf)
 15. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_gSDF_Geometry-Driven_Signed_Distance_Functions_for_3D_Hand-Object_Reconstruction_CVPR_2023_paper.pdf)
 16. End-to-End Human Pose and Mesh Reconstruction with Transformers (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)
