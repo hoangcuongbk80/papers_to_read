@@ -105,8 +105,9 @@
 11. ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_ARCTIC_A_Dataset_for_Dexterous_Bimanual_Hand-Object_Manipulation_CVPR_2023_paper.pdf)
 12. AMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_CAMS_CAnonicalized_Manipulation_Spaces_for_Category-Level_Functional_Hand-Object_Manipulation_Synthesis_CVPR_2023_paper.pdf)
 13. Affordance Diffusion: Synthesizing Hand-Object Interactions (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Affordance_Diffusion_Synthesizing_Hand-Object_Interactions_CVPR_2023_paper.pdf)
-14. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_gSDF_Geometry-Driven_Signed_Distance_Functions_for_3D_Hand-Object_Reconstruction_CVPR_2023_paper.pdf)
-15. End-to-End Human Pose and Mesh Reconstruction with Transformers (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)
+14. Synthesizing Diverse Human Motions in 3D Indoor Scenes (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Synthesizing_Diverse_Human_Motions_in_3D_Indoor_Scenes_ICCV_2023_paper.pdf)
+15. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_gSDF_Geometry-Driven_Signed_Distance_Functions_for_3D_Hand-Object_Reconstruction_CVPR_2023_paper.pdf)
+16. End-to-End Human Pose and Mesh Reconstruction with Transformers (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_End-to-End_Human_Pose_and_Mesh_Reconstruction_with_Transformers_CVPR_2021_paper.pdf)
     
 ## Multi-Modal Fusion
 1. RDFNet: RGB-D Multi-level Residual Feature Fusion for Indoor Semantic Segmentation (ICCV 2017) [PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Park_RDFNet_RGB-D_Multi-Level_ICCV_2017_paper.pdf)
