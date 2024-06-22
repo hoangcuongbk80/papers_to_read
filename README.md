@@ -1,3 +1,8 @@
+## CVPR 2024
+1. HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud [PDF](https://arxiv.org/pdf/2404.03159)
+2. Single-View Scene Point Cloud Human Grasp Generation [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Single-View_Scene_Point_Cloud_Human_Grasp_Generation_CVPR_2024_paper.pdf)
+3. Text2Loc: 3D Point Cloud Localization from Natural Language [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.pdf)
+
 ## Affordance
 1. Grounding 3D Object Affordance from 2D Interactions in Images (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.pdf)
 2. Affordance Diffusion: Synthesizing Hand-Object Interactions (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Affordance_Diffusion_Synthesizing_Hand-Object_Interactions_CVPR_2023_paper.pdf)
