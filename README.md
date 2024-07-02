@@ -3,6 +3,7 @@
 2. Single-View Scene Point Cloud Human Grasp Generation [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Single-View_Scene_Point_Cloud_Human_Grasp_Generation_CVPR_2024_paper.pdf)
 3. Text2Loc: 3D Point Cloud Localization from Natural Language [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.pdf)
 4. Language-driven Grasp Detection [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.pdf)
+5. VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception [PDF](https://openreview.net/pdf/11b5699ccb3e8bcd0b7559de88515fe570cf8967.pdf)
 
 ## Text-Vision
 1. Reasoning Grasping via Multimodal Large Language Model [PDF](https://arxiv.org/pdf/2402.06798)
