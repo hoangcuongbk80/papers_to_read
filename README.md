@@ -108,6 +108,7 @@
 4. OSOP: A Multi-Stage One Shot Object Pose Estimation Framework (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shugurov_OSOP_A_Multi-Stage_One_Shot_Object_Pose_Estimation_Framework_CVPR_2022_paper.pdf)
 5. Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf)
 6. HS-Pose: Hybrid Scope Feature Extraction for Category-level Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+7. GenPose: Generative Category-level Object Pose Estimation via Diffusion Models (NeurIPS 2023) [PDF](https://arxiv.org/pdf/2306.10531)
    
 ## Hand Pose Estimation
 1. HARP: Personalized Hand Reconstruction from a Monocular RGB Video (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Karunratanakul_HARP_Personalized_Hand_Reconstruction_From_a_Monocular_RGB_Video_CVPR_2023_paper.pdf)
