@@ -1,3 +1,8 @@
+## Hand-Video
+1. Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_Deformer_Dynamic_Fusion_Transformer_for_Robust_Hand_Pose_Estimation_ICCV_2023_paper.pdf)
+2. Visibility Aware Human-Object Interaction Tracking from Single RGB Camera [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Visibility_Aware_Human-Object_Interaction_Tracking_From_Single_RGB_Camera_CVPR_2023_paper.pdf)
+3. SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570120.pdf)
+
 ## CVPR 2024
 1. HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud [PDF](https://arxiv.org/pdf/2404.03159)
 2. Single-View Scene Point Cloud Human Grasp Generation [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Single-View_Scene_Point_Cloud_Human_Grasp_Generation_CVPR_2024_paper.pdf)
