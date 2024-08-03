@@ -6,6 +6,11 @@
 5. VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception [PDF](https://openreview.net/pdf/11b5699ccb3e8bcd0b7559de88515fe570cf8967.pdf)
 6. Visibility Aware Human-Object Interaction Tracking from Single RGB Camera [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Visibility_Aware_Human-Object_Interaction_Tracking_From_Single_RGB_Camera_CVPR_2023_paper.pdf)
 7. A Simple Baseline for Efficient Hand Mesh Reconstruction [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.pdf)
+8. MOHO [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MOHO_Learning_Single-view_Hand-held_Object_Reconstruction_with_Multi-view_Occlusion-Aware_Supervision_CVPR_2024_paper.pdf)
+9. BiTT: Bi-directional Texture Reconstruction of Interacting Two Hands from a Single Image [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_BiTT_Bi-directional_Texture_Reconstruction_of_Interacting_Two_Hands_from_a_CVPR_2024_paper.pdf)
+10. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOIDiffusion_Generating_Realistic_3D_Hand-Object_Interaction_Data_CVPR_2024_paper.pdf)
+11. HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Narasimhaswamy_HanDiffuser_Text-to-Image_Generation_With_Realistic_Hand_Appearances_CVPR_2024_paper.pdf)
+12. 
 
 ## Text-Vision
 1. Reasoning Grasping via Multimodal Large Language Model [PDF](https://arxiv.org/pdf/2402.06798)
