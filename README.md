@@ -15,6 +15,7 @@
 9. BiTT: Bi-directional Texture Reconstruction of Interacting Two Hands from a Single Image [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_BiTT_Bi-directional_Texture_Reconstruction_of_Interacting_Two_Hands_from_a_CVPR_2024_paper.pdf)
 10. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOIDiffusion_Generating_Realistic_3D_Hand-Object_Interaction_Data_CVPR_2024_paper.pdf)
 11. HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Narasimhaswamy_HanDiffuser_Text-to-Image_Generation_With_Realistic_Hand_Appearances_CVPR_2024_paper.pdf)
+12. Visual Prompt Multi-Modal Tracking [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)
 
 ## Text-Vision
 1. Reasoning Grasping via Multimodal Large Language Model [PDF](https://arxiv.org/pdf/2402.06798)
