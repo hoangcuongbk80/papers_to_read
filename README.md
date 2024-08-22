@@ -7,6 +7,7 @@
 6. End-to-End Human Object Interaction Detection with HOI Transformer [PDF]()
 7. Attention Augmented Convolutional Networks [PDF](https://arxiv.org/pdf/1904.09925.pdf)
 8. Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos (CVPR 2021) [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf)
+9. Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers (CVPR 2024) [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Multi-criteria_Token_Fusion_with_One-step-ahead_Attention_for_Efficient_Vision_Transformers_CVPR_2024_paper.pdf)
 
 ## Hand-Video
 1. Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_Deformer_Dynamic_Fusion_Transformer_for_Robust_Hand_Pose_Estimation_ICCV_2023_paper.pdf)
