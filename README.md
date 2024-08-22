@@ -1,3 +1,7 @@
+## Object Pose Tracking
+1. Deep Active Contours for Real-time 6-DoF Object Tracking [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf)
+2. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview (2022) [PDF](https://arxiv.org/pdf/2105.14291)
+
 ## Transformer
 1. Attention is all you need (2017) [PDF](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 2. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [PDF](https://arxiv.org/pdf/2010.11929.pdf)
@@ -123,7 +127,6 @@
 23. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview [PDF](https://dl.acm.org/doi/full/10.1145/3524496)
 24. Data-Driven Grasp Synthesis—A Survey (TRO) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6672028)
 25. Rigidity-Aware Detection for 6D Object Pose Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
-26. Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview (2022) [PDF](https://arxiv.org/pdf/2105.14291)
     
 ## 6D Object Pose Estimation (without CAD Model)
 1. GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting (CVPR 2022) [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf)
