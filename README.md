@@ -31,6 +31,8 @@
 10. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HOIDiffusion_Generating_Realistic_3D_Hand-Object_Interaction_Data_CVPR_2024_paper.pdf)
 11. HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Narasimhaswamy_HanDiffuser_Text-to-Image_Generation_With_Realistic_Hand_Appearances_CVPR_2024_paper.pdf)
 12. Visual Prompt Multi-Modal Tracking [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf)
+13. Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_CVPR_2024_paper.pdf)
+14. Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Costanzino_Multimodal_Industrial_Anomaly_Detection_by_Crossmodal_Feature_Mapping_CVPR_2024_paper.pdf)
 
 ## Text-Vision
 1. Reasoning Grasping via Multimodal Large Language Model [PDF](https://arxiv.org/pdf/2402.06798)
