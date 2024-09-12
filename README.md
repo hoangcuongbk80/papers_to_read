@@ -6,6 +6,7 @@
 5. Removing Anomalies as Noises for Industrial Defect Localization (ICCV 2023) [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
 6. Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection (CVPR 2024) [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_CVPR_2024_paper.pdf)
 7. Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping (CVPR 2024) [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Costanzino_Multimodal_Industrial_Anomaly_Detection_by_Crossmodal_Feature_Mapping_CVPR_2024_paper.pdf)
+8. 3D Industrial anomaly detection via dual reconstruction network [PDF](https://link.springer.com/article/10.1007/s10489-024-05700-x)
 
 ## Object Pose Tracking
 1. Deep Active Contours for Real-time 6-DoF Object Tracking [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf)
