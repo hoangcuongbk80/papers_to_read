@@ -9,8 +9,9 @@
 8. 3D Industrial anomaly detection via dual reconstruction network [PDF](https://link.springer.com/article/10.1007/s10489-024-05700-x)
 9. Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data [PDF](https://arxiv.org/pdf/2311.06797)
 10.  Multimodal industrial anomaly detection via hybrid fusion (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.pdf)
-11. Deep Industrial Image Anomaly Detection: A Survey [PDF](https://link.springer.com/article/10.1007/s11633-023-1459-z)
-12. A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144292)
+11. Asymmetric Student-Teacher Networks for Industrial Anomaly Detection (WACV 2023) [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Rudolph_Asymmetric_Student-Teacher_Networks_for_Industrial_Anomaly_Detection_WACV_2023_paper.pdf)
+12. Deep Industrial Image Anomaly Detection: A Survey [PDF](https://link.springer.com/article/10.1007/s11633-023-1459-z)
+13. A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144292)
 
 ## Object Pose Tracking
 1. Deep Active Contours for Real-time 6-DoF Object Tracking [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf)
