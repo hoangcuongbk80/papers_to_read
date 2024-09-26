@@ -15,6 +15,7 @@
 14.  RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection (CVPR 2024) [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_RealNet_A_Feature_Selection_Network_with_Realistic_Synthetic_Anomaly_for_CVPR_2024_paper.pdf)
 15. Deep Industrial Image Anomaly Detection: A Survey [PDF](https://link.springer.com/article/10.1007/s11633-023-1459-z)
 16. A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144292)
+17. Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Feature_Shrinkage_Pyramid_for_Camouflaged_Object_Detection_With_Transformers_CVPR_2023_paper.pdf)
 
 ## Object Pose Tracking
 1. Deep Active Contours for Real-time 6-DoF Object Tracking [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf)
