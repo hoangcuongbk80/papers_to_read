@@ -1,3 +1,7 @@
+## 2025
+1. GM-DETR: Generalized Muiltispectral DEtection TRansformer with Efficient Fusion Encoder for Visible-Infrared Detection [PDF](https://arxiv.org/pdf/2112.09045](https://openaccess.thecvf.com/content/CVPR2024W/JRDB/papers/Xiao_GM-DETR_Generalized_Muiltispectral_DEtection_TRansformer_with_Efficient_Fusion_Encoder_for_CVPRW_2024_paper.pdf)
+2. UNETR++: Delving Into Efficient and Accurate 3D Medical Image Segmentation [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10526382)
+
 ## Anomaly Detection
 1. The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization [PDF](https://arxiv.org/pdf/2112.09045)
 2. SimpleNet: A Simple Network for Image Anomaly Detection and Localization (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf)
