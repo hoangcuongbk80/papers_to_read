@@ -1,3 +1,9 @@
+##  Infrared Image Deep Learning Networks
+1. Multi-Scale Direction-Aware Network for Infrared Small Target Detection [PDF](https://arxiv.org/pdf/2406.02037)
+2. WDTSNet: Wavelet Decomposition Two-Stage Network for Infrared Thermal Radiation Effect Correction [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423855)
+3. SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10701558)
+4. Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Detection-Friendly_Nonuniformity_Correction_A_Union_Framework_for_Infrared_UAV_Target_CVPR_2025_paper.pdf)
+
 ## 2025
 1. GM-DETR: Generalized Muiltispectral DEtection TRansformer with Efficient Fusion Encoder for Visible-Infrared Detection [PDF](https://arxiv.org/pdf/2112.09045](https://openaccess.thecvf.com/content/CVPR2024W/JRDB/papers/Xiao_GM-DETR_Generalized_Muiltispectral_DEtection_TRansformer_with_Efficient_Fusion_Encoder_for_CVPRW_2024_paper.pdf)
 2. UNETR++: Delving Into Efficient and Accurate 3D Medical Image Segmentation [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10526382)
